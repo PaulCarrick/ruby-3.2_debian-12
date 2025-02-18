@@ -1,4 +1,4 @@
-# Ruby 3.2.0 for Ddebian 12
+# Ruby 3.2.0 for Debian 12
 
 These are the istructions to install Ruby 3.2.0 on Deain 12 using a package Paul Carrick built.
 
